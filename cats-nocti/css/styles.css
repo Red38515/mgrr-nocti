@@ -1,0 +1,66 @@
+/* CSS Document */
+
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+body {
+	color: white;
+	font-family: arial, sans-serif;
+	font-size: 1.5em;
+	background-color: brown;
+}
+
+table {
+	padding: 5%;
+	margin: 0 auto;
+	max-width: 80%;
+	border: none;
+	background-color: brown;
+}
+
+#header {
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+p {
+	margin: 2% 0
+}
+
+form {
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+form fieldset {
+	padding: 2% 0;
+}
+
+form #submit {
+	min-width: 10%;
+	font-size: 1em;
+}
+
+ol {
+	padding: 2% 0;
+}
+li {
+	padding: 1% 0;
+}
+
+footer {
+	text-align: center;
+	padding: 2% 0;
+}
+
+.fNav a {
+	color: orange;
+	font-weight: bold;
+	text-decoration: none;
+}
+.fNav a:hover {
+	color: white;
+}
